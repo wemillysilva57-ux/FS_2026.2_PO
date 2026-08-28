@@ -1,5 +1,6 @@
 # FS_2026.2_PO
 Entrega desafio PO 2026.2
+
 documento de visão
 https://docs.google.com/document/d/1YKZmTa6uAwhuFiQUjpzcHZmjpq-68MYvxd-3_MHTc4g/edit?usp=drivesdk
 trello -GT
